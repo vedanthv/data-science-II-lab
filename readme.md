@@ -8,4 +8,8 @@ PS : Go through the readme to set up R environment on VSCode
 
 Raise a PR for programs 7 and 8.
 
-**List Of Questions**
+## Running R from VSCode
+
+- Run Ctrl+Shift+P to open Command Palette
+- Enter R:Create R Terminal To Open R Terminal
+- Press Ctrl+Shift+S from file to run it in the R terminal

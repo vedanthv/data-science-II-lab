@@ -11,7 +11,7 @@ df <- read.delim("http://courses.washington.edu/b517/Datasets/MRI.txt")
 print(head(df))
 
 library("readxl")
-data_sample <- read.xlsx('D:\University\Semester 6\DS Lab\R\sample.xlsx') # nolint
+data_sample <- read.xlsx('https://github.com/vedanthv/data-science-II-lab/blob/main/R/sample.xlsx') # nolint
 print(data_sample)
 
 # Load the library xml2
